@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm a passionate third-year Computer Science stude
 ## 📈 GitHub Stats
 
 ![Neorex80's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neorex80&show_icons=true&theme=radical)
+![Neorex80's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neorex80&theme=radical)
+![Neorex80's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neorex80&layout=compact&theme=radical)
 
 ## 🚀 Projects
 
@@ -30,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate third-year Computer Science stude
 
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/rushikesh-pawar-78250a31b)
+- [LinkedIn](https://www.linkedin.com/in/rushikesh-pawar-78250a31b/)
 - [Twitter](https://twitter.com/your-twitter)
 - [Email](mailto:your-email@example.com)
 
