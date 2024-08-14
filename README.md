@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rushikesh Pawar (aka @Neorex80)
+# 👋 Hi, I'm Rushikesh (aka @Neorex80)
 
 Welcome to my GitHub profile! I'm a passionate third-year Computer Science student with a strong interest in various tech fields. Here's a bit about me:
 
