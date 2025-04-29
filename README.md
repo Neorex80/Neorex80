@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate third-year Computer Science stude
 
 ## 📈 GitHub Stats
 
-![Neorex80's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neorex80&theme=radical)
 ![Neorex80's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neorex80&layout=compact&theme=radical)
 
 ## 🚀 Projects
