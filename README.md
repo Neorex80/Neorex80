@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate third-year Computer Science stude
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Neorex80&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
 
 
+
 ## 🚀 Projects
 
 ### [CODSOFT Internship Projects](https://github.com/Neorex80/CODSOFT)
