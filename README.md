@@ -4,7 +4,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Neorex80&theme=radical&no-frame=true&margin-w=10&column=6" alt="Trophies" />
 </p>
 
-<h1 align="center">🚀 Rushikesh Pawar (aka Neorex)</h1>
+<h1 align="center">🚀 Rushikesh Pawar </h1>
 <h3 align="center">AI & ML Enthusiast • Python Developer • Web Innovator</h3>
 <p align="center"><i>Crafting AI-powered tools, bots & digital solutions for the future</i></p>
 
