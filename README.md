@@ -1,7 +1,7 @@
 <!-- Neorex GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neorex80&theme=algolia&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Neorex80&theme=radical&no-frame=true&margin-w=10&column=6" alt="Trophies" />
 </p>
 
 <h1 align="center">🚀 Rushikesh Pawar (aka Neorex)</h1>
