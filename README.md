@@ -1,7 +1,7 @@
 <!-- Neorex GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neorex80&theme=radical&no-frame=true&margin-w=10&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=I-invincib1e0&theme=radical&no-frame=true&margin-w=10&column=6" alt="Trophies" />
 </p>
 
 <h1 align="center"> Rushikesh Pawar </h1>
@@ -9,9 +9,9 @@
 <p align="center"><i>Crafting AI-powered tools, bots & digital solutions for the future</i></p>
 
 <p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/Neorex80?label=Followers&style=for-the-badge&logo=github&color=ff69b4">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Neorex80?label=Stars&style=for-the-badge&logo=github&color=00c8ff">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Neorex80&label=Profile%20Views&color=orange&style=for-the-badge">
+  <img alt="Followers" src="https://img.shields.io/github/followers/I-invincib1e?label=Followers&style=for-the-badge&logo=github&color=ff69b4">
+  <img alt="Stars" src="https://img.shields.io/github/stars/I-invincib1e?label=Stars&style=for-the-badge&logo=github&color=00c8ff">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=I-invincib1e&label=Profile%20Views&color=orange&style=for-the-badge">
 </p>
 
 ---
@@ -25,23 +25,23 @@
 
 ## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neorex80&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neorex80&layout=compact&theme=radical&hide_border=true&border_radius=12" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=I-invincib1e&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-invincib1e&layout=compact&theme=radical&hide_border=true&border_radius=12" height="180" />
 </p>
 
 ---
 
 ## 🔥 Current Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Neorex80&theme=radical&hide_border=true&border_radius=12&mode=weekly" />
+  <img src="https://streak-stats.demolab.com?user=I-invincib1e&theme=radical&hide_border=true&border_radius=12&mode=weekly" />
 </p>
 
 ---
 
 ## 🏆 Contribution Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neorex80&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neorex80&theme=radical&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I-invincib1e&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=I-invincib1e&theme=radical&utcOffset=5" />
 </p>
 
 ---
