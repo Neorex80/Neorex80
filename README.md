@@ -1,5 +1,5 @@
 <!-- Neorex GitHub Profile README -->
-
+.
 <h1 align="center"> Rushikesh Pawar </h1>
 <h3 align="center">AI & ML Enthusiast • Python Developer • Web Innovator</h3>
 <p align="center"><i>Crafting AI-powered tools, bots & digital solutions for the future</i></p>
